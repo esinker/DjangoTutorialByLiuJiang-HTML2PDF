@@ -1,5 +1,5 @@
 # DjangoTutorialByLiuJiang-HTML2PDF
-Django的教程资料，将刘江的博客转化为PDF，方便阅读学习
+Django的教程资料，将刘江老师的Django博客转化为PDF，方便阅读学习,该pdf特意保留了用户的评论内容。
 
 个人认为django 写的比较好的教程资料。
 刘江老师的blog地址：http://www.liujiangblog.com
